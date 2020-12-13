@@ -1,0 +1,169 @@
+body {
+    font-family: 'Poppins';
+
+    
+}
+
+
+.navbar-brand{
+   
+    font-weight: 600;
+    color: #2D2C4B;
+    font-size: 24px;
+    line-height: 36px;
+}
+.nav-link {
+   
+    font-size: 14px;
+    line-height: 21px;
+    color: #2D2C4B;
+        }
+#nav {
+padding-left: 100px;
+padding-right: 100px;
+}
+#login {
+    border: 1px solid #2D2C4B;
+    box-sizing: border-box;
+    border-radius: 22px;
+    Width : 110px;
+    height: 44px;
+    top: 25px ;
+    left: 1195 ;
+
+}
+#one-btn{
+    background-color:#FEAB42;
+    font-family: 'Poppins';
+    font-weight: 600;
+    border-radius: 30px;
+}
+#row-d {
+  margin-top: 192px;
+}
+.h1 {
+    margin-top: 20px;
+    color: #2D2C4B;
+
+    font-weight: 600;
+    font-size: 64px;
+     line-height: 96px;
+
+}
+.text {
+    
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2C4B;
+    opacity: 0.75;
+}
+
+.img-responsive {
+    padding-left: 200px;
+
+   
+}
+@media ( max-width: 768px ) {
+    .img-responsive {
+        padding-left: 0;
+       
+
+    }
+}
+#slogan {
+    margin-top: 52px;
+    font-size: 48px;
+    color:  #2D2C4B;
+    
+}
+#options {
+    margin-top: 85px;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+h4 {
+    font-size: 20px;
+}
+
+.box {
+    max-width: 611px;
+    height: 258px;
+    border-radius: 30px;
+}
+.box.orange {
+     background: #FEAB42;
+    
+}
+.circle {
+    width: 114px;
+    height: 114px;
+    border-radius: 50%;
+    margin-left:  35px;
+    margin-right: 35px;
+}
+.circle.pink {
+    background: #FC6580;
+
+}
+.circle.orange {
+    background: #FEAB42;
+
+}
+.circle.blue {
+    background: #5E9EFF;
+}
+h5 {
+    font-size: 48px;
+}
+@media (min-width: 1200px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1280px;
+}
+}
+.btn-outline-orange {
+    background: #FFFFFF;
+    border: 1px solid #FEAB42;
+    color:  #FEAB42;
+    
+}
+.btn-fill-orange {
+    background: #FEAB42;
+    box-shadow: 0px 25px 50px rgba(72, 71, 122, 0.25);
+    color: white;
+}
+.awesome-box {
+    max-width: 370px;
+    max-height: 389px;
+    border: 1px solid #ECECF0;
+    border-radius: 30px;
+}
+.circle.purple {
+    background: #8F8CFF;
+}
+.circle.powder-pink {
+    background: #FE8B71;
+    
+}
+#footer {
+    width: 1500px;
+    height: 370px;
+  
+    
+     background: #9291D9;
+     
+}
+h2 {
+    font-weight: 600;
+     font-size: 38px;
+}
+.btn-get {
+    background: #FFFFFF;
+    border-radius: 30px;
+    color: #FE8B71;
+}
+#con-foot {
+    padding-left: 0;
+    padding-right: 0;
+}
